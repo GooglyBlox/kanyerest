@@ -130,7 +130,7 @@ function kanyerest() {
 	var phrase = '"***' + quotes[Math.floor(Math.random()*quotes.length)] + '***" *- Kanye West*';
 	return quotes
 }
-};
+
 
 module.exports = class Sender extends Plugin {
   constructor() {
