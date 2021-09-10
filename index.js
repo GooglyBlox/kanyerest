@@ -156,5 +156,5 @@ module.exports = class Sender extends Plugin {
     powercord.api.commands.unregisterCommand(`kanye`);
  
   }
-
+	
 }
